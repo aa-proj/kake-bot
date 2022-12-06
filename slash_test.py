@@ -268,3 +268,4 @@ async def betsreset(interaction: discord.Integration, gamename:str):
 
 # DiscordにTokenでログインする
 client.run('TOKEN')
+aa
